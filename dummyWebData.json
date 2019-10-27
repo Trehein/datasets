@@ -1,0 +1,250 @@
+{
+    "name": "stories",
+    "id": 0,
+    "children": [
+        {
+            "name": "Economics",
+            "id": 0,
+            "children": [
+                {
+                    "name": "Taxes",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Tax Story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Tax Story 2",
+                            "id": 0
+                        },
+                        {
+                            "name": "Tax Story 3",
+                            "id": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Trade",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Trade Story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Trade Story 2",
+                            "id": 0
+                        },
+                        {
+                            "name": "Trade Story 3",
+                            "id": 0
+                        },
+                        {
+                            "name": "Trade Story 4",
+                            "id": 0
+                        },
+                        {
+                            "name": "Trade Story 5",
+                            "id": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Politics",
+            "id": 0,
+            "children": [
+                {
+                    "name": "Elections",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Election story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Election story 2",
+                            "id": 0
+                        },
+                        {
+                            "name": "Election story 3",
+                            "id": 0
+                        },
+                        {
+                            "name": "Election story 4",
+                            "id": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Impeachment",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Impeachment story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Impeachment story 2",
+                            "id": 0
+                        },
+                        {
+                            "name": "Impeachment story 3",
+                            "id": 0
+                        },
+                        {
+                            "name": "Impeachment story 4",
+                            "id": 0
+                        },
+                        {
+                            "name": "Impeachment story 5",
+                            "id": 0
+                        },
+                        {
+                            "name": "Impeachment story 6",
+                            "id": 0
+                        },
+                        {
+                            "name": "Impeachment story 7",
+                            "id": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Gerrymandering",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Gerrymandering story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Gerrymandering story 2",
+                            "id": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rights",
+            "id": 0,
+            "children": [
+                {
+                    "name": "Racism",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Civil Rights story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Civil Rights story 2",
+                            "id": 0
+                        },
+                        {
+                            "name": "Civil Rights story 3",
+                            "id": 0
+                        },
+                        {
+                            "name": "Civil Rights story 4",
+                            "id": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "LGBTQ",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Civil Rights story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Civil Rights story 2",
+                            "id": 0
+                        },
+                        {
+                            "name": "Civil Rights story 3",
+                            "id": 0
+                        },
+                        {
+                            "name": "Civil Rights story 4",
+                            "id": 0
+                        },
+                        {
+                            "name": "Civil Rights story 5",
+                            "id": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Conflict",
+            "id": 0,
+            "children": [
+                {
+                    "name": "Yemen",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Yemen story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Yemen story 2",
+                            "id": 0
+                        },
+                        {
+                            "name": "Yemen story 3",
+                            "id": 0
+                        },
+                        {
+                            "name": "Yemen story 4",
+                            "id": 0
+                        },
+                        {
+                            "name": "Yemen story 5",
+                            "id": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Syria",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Syria story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Syria story 2",
+                            "id": 0
+                        },
+                        {
+                            "name": "Syria story 3",
+                            "id": 0
+                        }
+                    ]
+                },
+                {
+                    "name": "Ukraine",
+                    "id": 0,
+                    "children": [
+                        {
+                            "name": "Syria story 1",
+                            "id": 0
+                        },
+                        {
+                            "name": "Syria story 2",
+                            "id": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
