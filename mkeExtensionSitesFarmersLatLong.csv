@@ -1,148 +1,148 @@
 program,partner,streetAddress,city,zip,lat,long,2019partner,2018partner,2017partner,participants
-FoodWIse,4C for Children,1736 N. 2nd Street,Milwaukee,53212,43.0534,-87.9123,Y,Y,Y,25
-Comm Dev,5WISE Workshop Coworking Space,3524 W National Ave,Milwaukee,53215,43.0219,-87.9586,Y,Y,,25
+FoodWIse,4C for Children,1736 N. 2nd Street,Milwaukee,53212,43.0534,-87.9123,Y,Y,Y,55
+Comm Dev,5WISE Workshop Coworking Space,3524 W National Ave,Milwaukee,53215,43.0219,-87.9586,Y,Y,,15
 Urban Agriculture,A Cry for Hope,2710 N 15th St.,Milwaukee,53206,43.0681,-87.9311,,,Y,25
 FoodWIse,Academy of Accelerated Learning,3727 S 78th St,Milwaukee,53220,42.9760,-88.0116,,,Y,25
 FoodWIse,Acelero Head Start,7833 W Capitol Drive,Milwaukee,53222,43.0896,-88.0103,Y,Y,Y,25
 Comm Dev,Adam Carr (88.9 Radio Milwauke& Milwaukee neighborhood News Service),220 E Pittsburgh Ave,Milwaukee,53204,43.0297,-87.9093,Y,Y,Y,25
 Urban Agriculture,Adult Day Services of Southeast Wisconsin LLC (ADSSW),344 S. Curtis Road,West Allis,53214,43.0283,-88.0612,Y,Y,Y,25
-FoodWIse,AIDS Resource Center Food Pantry,820 Plankinton Ave,Milwaukee,53203,43.0407,-87.9124,Y,Y,,25
+FoodWIse,AIDS Resource Center Food Pantry,820 Plankinton Ave,Milwaukee,53203,43.0407,-87.9124,Y,Y,,35
 4-H,Albert Story School,3815 W Kilbourn Ave,Milwaukee,53207,43.0413,-87.9617,Y,Y,Y,25
-4-H,Alice's Garden,2136 N 21st St,Milwaukee,53205,43.0582,-87.9387,,,Y,25
-Comm Dev,Alice's Garden,2136 N 21st St,Milwaukee,53205,43.0582,-87.9387,Y,Y,Y,25
+4-H,Alice's Garden,2136 N 21st St,Milwaukee,53205,43.0582,-87.9387,,,Y,45
+Comm Dev,Alice's Garden,2136 N 21st St,Milwaukee,53205,43.0582,-87.9387,Y,Y,Y,55
 Horticulture,Alice's Garden,2136 N 21st St,Milwaukee,53205,43.0582,-87.9387,Y,,,25
-Urban Agriculture,Amani United Neighborhood Association,2320 W. Burleigh,Milwaukee,53208,43.0757,-87.9414,,,Y,25
+Urban Agriculture,Amani United Neighborhood Association,2320 W. Burleigh,Milwaukee,53208,43.0757,-87.9414,,,Y,65
 Comm Dev,Amaranth Bakery & Cafe,3329 W Lisbon Ave,Milwaukee,53208,43.0542,-87.9560,Y,Y,Y,25
-Health & Well Being,Area Health Education Center,2224 W Kilbourn Ave,Milwaukee,53233,43.0425,-87.9406,,,Y,25
-Urban Agriculture,Aromatic Acres Community Farm  (Carly & Joe Ledger),7219 W Locust St,Milwaukee,53210,43.0715,-88.0028,Y,Y,Y,25
-FoodWIse,Benedict Center,1849 N. Dr. Martin Luther King Drivet#101,Milwaukee,53212,43.0549,-87.9147,Y,Y,Y,25
+Health & Well Being,Area Health Education Center,2224 W Kilbourn Ave,Milwaukee,53233,43.0425,-87.9406,,,Y,75
+Urban Agriculture,Aromatic Acres Community Farm  (Carly & Joe Ledger),7219 W Locust St,Milwaukee,53210,43.0715,-88.0028,Y,Y,Y,28
+FoodWIse,Benedict Center,1849 N. Dr. Martin Luther King Drivet#101,Milwaukee,53212,43.0549,-87.9147,Y,Y,Y,85
 Horticulture,Boerner Botanical Gardens (Milwaukee County Parks),9400 Boerner Dr,Hales Corners,53130,42.9436,-88.0465,Y,,,25
-Comm Dev,Bradley Tech High School,700 S 4th Street,Milwaukee,53204,43.0237,-87.9147,Y,,,25
-4-H,Brown Street Academy,2029 N 20th St.,Milwaukee,53205,43.0573,-87.9383,,,Y,25
-4-H,Carson Academy of Science,4920 W Capitol Dr.,Milwaukee,53216,43.0906,-87.9753,,,Y,25
-FoodWIse,Centro Hispano Headstart,614 W National Ave,Milwaukee,53204,43.0236,-87.9187,,,Y,25
+Comm Dev,Bradley Tech High School,700 S 4th Street,Milwaukee,53204,43.0237,-87.9147,Y,,,95
+4-H,Brown Street Academy,2029 N 20th St.,Milwaukee,53205,43.0573,-87.9383,,,Y,105
+4-H,Carson Academy of Science,4920 W Capitol Dr.,Milwaukee,53216,43.0906,-87.9753,,,Y,115
+FoodWIse,Centro Hispano Headstart,614 W National Ave,Milwaukee,53204,43.0236,-87.9187,,,Y,125
 FoodWIse,Children's Hospital Community Health Plan,6737 W Washington St,West Allis,53214,43.0177,-87.9959,,Y,Y,25
 Urban Agriculture,City of Milwaukee Home Gr/own,200 East Wells,Milwaukee,53202,43.0417,-87.9097,Y,Y,Y,25
-Urban Agriculture,"City of Milwaukee, Environmental Collaboration Office",200 E Wells St #603,Milwaukee,53202,43.0417,-87.9097,,,Y,25
-Urban Agriculture,"City of Milwaukee, Forestry Department",5230 W State St.,Milwaukee,53208,43.0452,-87.9796,,,Y,25
+Urban Agriculture,"City of Milwaukee, Environmental Collaboration Office",200 E Wells St #603,Milwaukee,53202,43.0417,-87.9097,,,Y,135
+Urban Agriculture,"City of Milwaukee, Forestry Department",5230 W State St.,Milwaukee,53208,43.0452,-87.9796,,,Y,145
 Urban Agriculture,City of Wauwatosa,7725 West North Ave,Wauwatosa,53226,43.0601,-88.0090,Y,Y,Y,25
-Comm Dev,City of West Allis Common Council,7525 W Greenfield Ave.,West Allis,53214,43.0162,-88.0066,,Y,Y,25
+Comm Dev,City of West Allis Common Council,7525 W Greenfield Ave.,West Allis,53214,43.0162,-88.0066,,Y,Y,155
 Comm Dev,City of West Allis Mayor's Office,7525 W Greenfield Ave.,West Allis,53214,43.0162,-88.0066,Y,Y,,25
 FoodWIse,City on a Hill,2224 W Kilbourn Ave.,Milwaukee,53233,43.0425,-87.9406,,,Y,25
-Urban Agriculture,Clark Square Neighborhood Initiative,2110 W Scott Street,Milwaukee,53206,43.0200,-87.9401,,,Y,25
+Urban Agriculture,Clark Square Neighborhood Initiative,2110 W Scott Street,Milwaukee,53206,43.0200,-87.9401,,,Y,165
 FoodWIse,COA,909 E. Garfield Ave.,Milwaukee,53212,43.0586,-87.9001,Y,Y,,25
 Comm Dev,COA - Goldin Center,2320 W Burleigh St,Milwaukee,53206,43.0757,-87.9414,,,Y,25
 Urban Agriculture,COA - Goldin Center,2320 W Burleigh St,Milwaukee,53206,43.0757,-87.9414,,,Y,25
-Urban Agriculture,Community Garden School - Riverwest,625 East North Ave,Milwaukee,53212,43.0601,-87.9035,Y,Y,Y,25
+Urban Agriculture,Community Garden School - Riverwest,625 East North Ave,Milwaukee,53212,43.0601,-87.9035,Y,Y,Y,155
 Health & Well Being,Covering WI,728 N. James Lovell St,Milwaukee,53233,43.0395,-87.9199,Y,Y,,25
 FoodWIse,Department of Aging,1220 W Vliet St #302,Milwaukee,53205,43.0491,-87.9280,,,Y,25
 4-H,Doerfler CLC,3014 W Scott St,Milwaukee,53215,43.0196,-87.9520,Y,Y,,25
-Urban Agriculture,Easter Seals - Assisted Living Facility,2222 S 114th St,Milwaukee,53227,43.0039,-88.0533,,Y,Y,25
+Urban Agriculture,Easter Seals - Assisted Living Facility,2222 S 114th St,Milwaukee,53227,43.0039,-88.0533,,Y,Y,175
 FoodWIse,Ebenezer Food Pantry,3132 N. Dr. Martin Luther King Drivei,Milwaukee,53212,43.0759,-87.9138,,,Y,25
 FoodWIse,Feeding America,1700 W. Fond Du lac Ave.,Milwaukee,53205,43.0574,-87.9330,Y,Y,Y,25
-4-H,Feeding America Eastern Wisconsin Food Bank,1700 W Fond Du Lac Ave.,Milwaukee,53205,43.0574,-87.9330,,,Y,25
+4-H,Feeding America Eastern Wisconsin Food Bank,1700 W Fond Du Lac Ave.,Milwaukee,53205,43.0574,-87.9330,,,Y,185
 4-H,Fernwood Montessori School,3239 S Pennsylvania Ave,Milwaukee,53207,42.9859,-87.8808,Y,Y,,25
-FoodWIse,Fondy Farmers Market,2200 W Fond Du Lac Ave,Milwaukee,53206,43.0619,-87.9396,Y,Y,Y,25
-Comm Dev,Fondy Food Center/Farmers Market,1617 W North Ave  #4,Milwaukee,53205,43.0602,-87.9331,,Y,,25
+FoodWIse,Fondy Farmers Market,2200 W Fond Du Lac Ave,Milwaukee,53206,43.0619,-87.9396,Y,Y,Y,15
+Comm Dev,Fondy Food Center/Farmers Market,1617 W North Ave  #4,Milwaukee,53205,43.0602,-87.9331,,Y,,10
 4-H,Franklin 4H Club,8225 W Forest Hill Ave.,Franklin,53132,42.8915,-88.0181,Y,,Y,25
-Horticulture,Friends of Boerner Botanical Gardens,9400 Boerner Dr,Hales Corners,53130,42.9436,-88.0465,Y,,,25
+Horticulture,Friends of Boerner Botanical Gardens,9400 Boerner Dr,Hales Corners,53130,42.9436,-88.0465,Y,,,200
 Horticulture,Friends of Moody Park,2200 W. Burleigh St,Milwaukee,53206,43.0760,-87.9400,Y,,,25
 Urban Agriculture,Friends of Moody Park,2201 W Auer Ave.,Milwaukee,53206,43.0760,-87.9400,,,Y,25
 FoodWIse,Gerald L. Ignace Indian Health Center,930 W Historic Mitchell St,Milwaukee,53204,43.0127,-87.9237,Y,Y,,25
-Urban Agriculture,Gerald L. Ignace Indian Health Center,930 W Historic Mitchell St,Milwaukee,53204,43.0127,-87.9237,Y,Y,Y,25
+Urban Agriculture,Gerald L. Ignace Indian Health Center,930 W Historic Mitchell St,Milwaukee,53204,43.0127,-87.9237,Y,Y,Y,35
 Horticulture,Girl Scouts - Kneeland-Walker House,7406 Hillcrest Drive,Wauwatosa,53213,43.0556,-88.0050,Y,,,25
-Urban Agriculture,Goodwill Community Opportunities Club - North,10602 Underwood Pkwy,Wauwatosa,53226,43.0534,-88.0408,Y,Y,Y,25
-4-H,Granville Lutheran School,8242 N Granville Rd.,Milwaukee,53224,43.1671,-88.0330,Y,,,25
+Urban Agriculture,Goodwill Community Opportunities Club - North,10602 Underwood Pkwy,Wauwatosa,53226,43.0534,-88.0408,Y,Y,Y,45
+4-H,Granville Lutheran School,8242 N Granville Rd.,Milwaukee,53224,43.1671,-88.0330,Y,,,55
 Comm Dev,Greater Milwaukee Foundation,101 W Pleasant St.,Milwaukee,53212,43.0514,-87.9117,Y,Y,,25
 Health & Well Being,Greenpath Financial Wellness,1915 N Doctor M.L.K. Jr Dr.,Milwaukee,53212,43.0557,-87.9147,,,Y,25
 Urban Agriculture,Groundwork Milwaukee,227 W Pleasant St,Milwaukee,53212,43.0519,-87.9139,Y,Y,Y,25
 FoodWIse,Groundworks Youth,227 W Pleasant St,Milwaukee,53212,43.0519,-87.9139,,Y,,25
-Horticulture,Havenwoods State Forest,6141 N Hopkins St,Milwaukee,53209,43.1269,-87.9727,Y,,,25
+Horticulture,Havenwoods State Forest,6141 N Hopkins St,Milwaukee,53209,43.1269,-87.9727,Y,,,67
 Urban Agriculture,Havenwoods State Forest,6141 N Hopkins St,Milwaukee,53209,43.1269,-87.9727,Y,,,25
 Comm Dev,Heal the Hood,PO Box 5684,Milwaukee,53205,43.0531,-87.9332,,Y,,25
-Comm Dev,Heart Haus & Sweetwater Foundation,325 E Euclid Ave,Milwaukee,53207,42.9863,-87.9060,,Y,Y,25
-4-H,Highland Community School Garden,1706 W Highland Ave,Milwaukee,53233,43.0451,-87.9347,,,Y,25
+Comm Dev,Heart Haus & Sweetwater Foundation,325 E Euclid Ave,Milwaukee,53207,42.9863,-87.9060,,Y,Y,85
+4-H,Highland Community School Garden,1706 W Highland Ave,Milwaukee,53233,43.0451,-87.9347,,,Y,95
 4-H,Highland Montessori,1706 W Highland Ave,Milwaukee,53233,43.0451,-87.9347,Y,Y,,25
-FoodWIse,Holy Assumption Food Pantry,1525 S 71st St,West Allis,53214,43.0144,-88.0021,Y,Y,Y,25
+FoodWIse,Holy Assumption Food Pantry,1525 S 71st St,West Allis,53214,43.0144,-88.0021,Y,Y,Y,125
 4-H,Humboldt Park Elementary,3230 S Adams Ave,Milwaukee,53207,42.9856,-87.9023,Y,Y,Y,25
 FoodWIse,Hunger Task Force,201 S Hawley Ct,Milwaukee,53214,43.0293,-87.9854,Y,Y,,25
-FoodWIse,Indian Community School,10405 W St. Martins Rd,Franklin,53132,42.8721,-88.0449,,,Y,25
+FoodWIse,Indian Community School,10405 W St. Martins Rd,Franklin,53132,42.8721,-88.0449,,,Y,105
 4-H,Jasiri 4H Club - Muslim community,4704 S 13th Street,Milwaukee,53221,42.9592,-87.9291,Y,,,25
 FoodWIse,Jewish Community Center Food Pantry,2900 W Center St,Milwaukee,53210,43.0684,-87.9506,Y,Y,,25
 4-H,Journey House,2110 W Scott Street,Milwaukee,53204,43.0200,-87.9401,Y,Y,Y,25
 Comm Dev,Journey House,2110 W Scott St,Milwaukee,53204,43.0200,-87.9401,,Y,Y,25
-FoodWIse,Journey House,2110 W Scott Street,Milwaukee,53204,43.0200,-87.9401,Y,Y,Y,25
+FoodWIse,Journey House,2110 W Scott Street,Milwaukee,53204,43.0200,-87.9401,Y,Y,Y,147
 Urban Agriculture,Journey House,2110 W Scott Street,Milwaukee,53204,43.0200,-87.9401,,Y,Y,25
 4-H,Keefe Avenue School,1618 W Keefe Ave.,Milwaukee,53206,43.0827,-87.9317,,,Y,25
-FoodWIse,Kosciuszko Community Center,2201 S 7th St.,Milwaukee,53215,43.0047,-87.9224,,,Y,25
+FoodWIse,Kosciuszko Community Center,2201 S 7th St.,Milwaukee,53215,43.0047,-87.9224,,,Y,12
 4-H,La Causa Charter School,1643 S 2nd St.,Milwaukee,53204,43.0130,-87.9130,,,Y,25
-Urban Agriculture,Longfellow Elementary,1021 S 21st St.,Milwaukee,53204,43.0200,-87.9401,,,Y,25
+Urban Agriculture,Longfellow Elementary,1021 S 21st St.,Milwaukee,53204,43.0200,-87.9401,,,Y,45
 Horticulture,Malaika Pre-School,125 W Auer Ave,Milwaukee,53212,43.0761,-87.9116,Y,,,25
 Urban Agriculture,Marquette University,1250 W Wisconsin Ave.,Milwaukee,53233,43.0390,-87.9282,,,Y,25
-Comm Dev,Marquette University Office of Community Engagement,1250 W Wisconsin Ave.,Milwaukee,53233,43.0390,-87.9282,,,Y,25
+Comm Dev,Marquette University Office of Community Engagement,1250 W Wisconsin Ave.,Milwaukee,53233,43.0390,-87.9282,,,Y,52
 4-H,Martin Luther King Jr. School,3275 N 3rd St.,Milwaukee,53212,43.0783,-87.9145,,,Y,25
-FoodWIse,Mental Health America,"600 W Virginia ST., Suite 502",Milwaukee,53204,43.0270,-87.9190,Y,Y,Y,25
+FoodWIse,Mental Health America,"600 W Virginia ST., Suite 502",Milwaukee,53204,43.0270,-87.9190,Y,Y,Y,63
 FoodWIse,Meta House Outpatient Program,2625 N. Weil St.,Milwaukee,53212,43.0661,-87.8997,Y,Y,Y,25
 FoodWIse,Meta House Residential Program,2625 N. Weil St.,Milwaukee,53212,43.0661,-87.8997,Y,Y,Y,25
-Positive Youth Dev.,Milwaukee Christian Center   ,807 S. 14th St.,Milwaukee,53204,43.0229,-87.9297,Y,,,25
+Positive Youth Dev.,Milwaukee Christian Center   ,807 S. 14th St.,Milwaukee,53204,43.0229,-87.9297,Y,,,35
 FoodWIse,Milwaukee Christian Center Food Pantry,807 S. 14th St.,Milwaukee,53204,43.0229,-87.9297,Y,Y,Y,25
-Urban Agriculture,"Milwaukee County Department of Parks, Recreation and Culture",9480 W Watertown Plank Rd,Wauwatosa,53226,43.0460,-88.0319,Y,,Y,25
+Urban Agriculture,"Milwaukee County Department of Parks, Recreation and Culture",9480 W Watertown Plank Rd,Wauwatosa,53226,43.0460,-88.0319,Y,,Y,45
 Urban Agriculture,Milwaukee County House of Corrections,8885 S 68th St,Franklin,53132,42.8816,-88.0024,,Y,Y,25
-Urban Agriculture,Milwaukee County Office of People with Disabilities,901 N 9th Street,Milwaukee,53233,43.0418,-87.9237,Y,Y,Y,25
+Urban Agriculture,Milwaukee County Office of People with Disabilities,901 N 9th Street,Milwaukee,53233,43.0418,-87.9237,Y,Y,Y,48
 Horticulture,Milwaukee County Zoo,10001 W Bluemound Rd,Milwaukee,53226,43.0292,-88.0413,Y,,,25
-Horticulture,Milwaukee County Zoological Society,10005 W Bluemound Rd,Milwaukee,53226,43.0329,-88.0419,Y,,,25
+Horticulture,Milwaukee County Zoological Society,10005 W Bluemound Rd,Milwaukee,53226,43.0329,-88.0419,Y,,,85
 FoodWIse,Milwaukee Day Report Center,1004 N 10th St,Milwaukee,53233,43.0438,-87.9241,Y,Y,Y,25
 Health & Well Being,Milwaukee Fair Housing Council,759 N Milwaukee St #500,Milwaukee,53202,43.0402,-87.9071,,,Y,25
 Urban Agriculture,Milwaukee Homeless Veterans,6300 W National Ave,West Allis,53214,43.0164,-87.9915,Y,Y,,25
-Health & Well Being,Milwaukee JobsWork,2821 Vel R. Phillips Ave suite 300,Milwaukee,53212,43.0699,-87.9162,,Y,,25
+Health & Well Being,Milwaukee JobsWork,2821 Vel R. Phillips Ave suite 300,Milwaukee,53212,43.0699,-87.9162,,Y,,75
 Horticulture,Milwaukee Journal Sentinel,333 State St,Milwaukee,53203,43.0423,-87.9152,Y,,,25
-Horticulture,Milwaukee Metropolitan Sewerage District,260 W Seeboth St,Milwaukee,53204,43.0315,-87.9142,Y,,,25
-Urban Agriculture,Milwaukee Metropolitan Sewerage District,261 W Seeboth St,Milwaukee,53205,43.0303,-87.9129,,,Y,25
+Horticulture,Milwaukee Metropolitan Sewerage District,260 W Seeboth St,Milwaukee,53204,43.0315,-87.9142,Y,,,56
+Urban Agriculture,Milwaukee Metropolitan Sewerage District,261 W Seeboth St,Milwaukee,53205,43.0303,-87.9129,,,Y,67
 Horticulture,Milwaukee Public Library - Central,814 W Wisconsin Ave,Milwaukee,53233,43.0395,-87.9224,Y,,,25
 FoodWIse,Milwaukee Public Schools,5225 W. Vliet St,Milwaukee,53208,43.0481,-87.9797,Y,Y,Y,25
-FoodWIse,Milwaukee Public Schools Head Start,921 W. Meinecke Ave.,Milwaukee,53206,43.0615,-87.9234,Y,Y,Y,25
+FoodWIse,Milwaukee Public Schools Head Start,921 W. Meinecke Ave.,Milwaukee,53206,43.0615,-87.9234,Y,Y,Y,85
 FoodWIse,Milwaukee Vet Center,7910 N 76th St,Milwaukee,53223,43.1616,-88.0040,Y,Y,Y,25
-Urban Agriculture,Milwaukee Vet Center,7910 N 76th St,Milwaukee,53223,43.1616,-88.0040,Y,Y,Y,25
-FoodWIse,Milwaukee Woman's Center,728 N James Lovell St,Milwaukee,53233,43.0395,-87.9199,Y,Y,Y,25
-Horticulture,Mitchell Park Conservancy,524 S Layton Blvd,Milwaukee,53215,43.0261,-87.9437,Y,,,25
-FoodWIse,Near Westside Farmers Market,3600 W Juneau,Milwaukee,53208,43.0460,-87.9585,Y,Y,,25
-FoodWIse,Next Door Head Start,2545 N. 29th Street,Milwaukee,53210,43.0649,-87.9506,Y,Y,Y,25
+Urban Agriculture,Milwaukee Vet Center,7910 N 76th St,Milwaukee,53223,43.1616,-88.0040,Y,Y,Y,45
+FoodWIse,Milwaukee Woman's Center,728 N James Lovell St,Milwaukee,53233,43.0395,-87.9199,Y,Y,Y,32
+Horticulture,Mitchell Park Conservancy,524 S Layton Blvd,Milwaukee,53215,43.0261,-87.9437,Y,,,45
+FoodWIse,Near Westside Farmers Market,3600 W Juneau,Milwaukee,53208,43.0460,-87.9585,Y,Y,,54
+FoodWIse,Next Door Head Start,2545 N. 29th Street,Milwaukee,53210,43.0649,-87.9506,Y,Y,Y,78
 FoodWIse,NOVA High School,225 W Capitol Dr.,Milwaukee,53212,43.0887,-87.9127,,,Y,25
 4-H,Oliver Wendell Holmes CLC,2463 N Buffum St,Milwaukee,53212,43.0630,-87.9072,Y,Y,,25
-4-H,Pan-African Community Association (PACA),4063 N 64th St Unit A,Milwaukee,53216,43.0912,-87.9931,,,Y?,25
-Urban Agriculture,Pan-African Community Association (PACA),4063 N 64th St Unit A,Milwaukee,53216,43.0912,-87.9931,,Y,Y,25
+4-H,Pan-African Community Association (PACA),4063 N 64th St Unit A,Milwaukee,53216,43.0912,-87.9931,,,Y?,32
+Urban Agriculture,Pan-African Community Association (PACA),4063 N 64th St Unit A,Milwaukee,53216,43.0912,-87.9931,,Y,Y,35
 FoodWIse,Project Concern Food Pantry,3658 E Plankinton Ave,Cudahy,53110,42.9604,-87.8584,Y,Y,Y,25
 FoodWIse,Project Excel,1300 S Layton Blvd # 1,Milwaukee,53215,43.0185,-87.9471,,,Y,25
 4-H,River Trail Elementary,12021 W Florist Ave.,Miwaukee,53225,43.1255,-88.0616,Y,,,25
 4-H,Running Rebels Community Organization,1300 W Fond Du Lac Ave A,Milwaukee,53205,43.0536,-87.9287,,,Y ,25
-Positive Youth Dev.,Running Rebels Community Organization,1300 W Fond Du Lac Ave A,Milwaukee,53205,43.0536,-87.9287,Y,,,25
-Urban Agriculture,Sherman Park Community Association,3526 W Fond Du Lac Ave.,Milwaukee,53216,43.0759,-87.9577,,,Y,25
+Positive Youth Dev.,Running Rebels Community Organization,1300 W Fond Du Lac Ave A,Milwaukee,53205,43.0536,-87.9287,Y,,,45
+Urban Agriculture,Sherman Park Community Association,3526 W Fond Du Lac Ave.,Milwaukee,53216,43.0759,-87.9577,,,Y,78
 Horticulture,Sixteenth Street Community Health Clinics,2906 S. 20th St,Milwaukee,53215,42.9926,-87.9364,Y,,,25
 Health & Well Being,Social Development Commission,1730 W North Ave,Milwaukee,53205,43.0607,-87.9345,Y,Y,,25
 FoodWIse,Soujourner Family Peace Center,619 W Walnut St,Milwaukee,53212,43.0519,-87.9194,Y,Y,,25
-FoodWIse,South Milawukee Human Concern Food Pantry,1029 Milwaukee Avenue,South Milwaukee,53172,42.9105,-87.8624,Y,Y,Y,25
-FoodWIse,Southside Health Department WIC Clinic,1639 S 23rd St,Milwaukee,53204,43.0133,-87.9431,Y,Y,,25
+FoodWIse,South Milawukee Human Concern Food Pantry,1029 Milwaukee Avenue,South Milwaukee,53172,42.9105,-87.8624,Y,Y,Y,24
+FoodWIse,Southside Health Department WIC Clinic,1639 S 23rd St,Milwaukee,53204,43.0133,-87.9431,Y,Y,,24
 FoodWIse,St. Augustine Preparatory Academy,2607 South 5th St.,Milwaukee,53207,42.9966,-87.9171,Y,Y,,25
-FoodWIse,St. Francis High School,4225 S Lake Dr,St Francis,53235,42.9677,-87.8535,Y,Y,,25
+FoodWIse,St. Francis High School,4225 S Lake Dr,St Francis,53235,42.9677,-87.8535,Y,Y,,14
 FoodWIse,St. Hyacinth Food Pantry,1414 W. Becher St.,Milwaukee,53201,43.0069,-87.9303,Y,Y,,25
 FoodWIse,St. Joseph's Academy,1600 W Oklahoma Ave,Milwaukee,53215,42.9890,-87.9344,Y,Y,Y,25
-4-H,St. Martini Lutheran School,1520 S Cesar E Chavez Dr #2715,Milwaukee,53204,43.0156,-87.9325,,,Y,25
-FoodWIse,St. Vincent de Paul Southside Meal Site,931 W Madison St.,Milwaukee,53204,43.0178,-87.9235,,,Y,25
+4-H,St. Martini Lutheran School,1520 S Cesar E Chavez Dr #2715,Milwaukee,53204,43.0156,-87.9325,,,Y,45
+FoodWIse,St. Vincent de Paul Southside Meal Site,931 W Madison St.,Milwaukee,53204,43.0178,-87.9235,,,Y,68
 Comm Dev,Still Waters Collective,300 W Walnut St,Milwaukee,53212,43.0531,-87.9147,Y,,,25
-Urban Agriculture,Tamarack Waldorf School,1150 East Brady st,Milwaukee,53202,43.0532,-87.8975,,,Y,25
+Urban Agriculture,Tamarack Waldorf School,1150 East Brady st,Milwaukee,53202,43.0532,-87.8975,,,Y,12
 Urban Agriculture,Teens Grow Greens,4215 N Green Bay Ave.,Milwaukee,53209,43.0943,-87.9262,,,Y,25
-Comm Dev,Terry McCormick Gallery of Contemporary Fine and Folk Art,2522 N 18th St,Milwaukee,53206,43.0647,-87.9347,Y,Y,Y,25
-Urban Agriculture,The Vet Center,7910 N 76th St #100,Milwaukee,53223,43.1616,-88.0040,Y,Y,,25
+Comm Dev,Terry McCormick Gallery of Contemporary Fine and Folk Art,2522 N 18th St,Milwaukee,53206,43.0647,-87.9347,Y,Y,Y,45
+Urban Agriculture,The Vet Center,7910 N 76th St #100,Milwaukee,53223,43.1616,-88.0040,Y,Y,,35
 Comm Dev,Tribeca Caf,1318 S 1st St,Milwaukee,53204,43.0175,-87.9104,,Y,,25
-Comm Dev,Tricklebee Caf,4424 W. North Avenue,Milwaukee,53208,43.0609,-87.9698,,,Y,25
+Comm Dev,Tricklebee Caf,4424 W. North Avenue,Milwaukee,53208,43.0609,-87.9698,,,Y,10
 Comm Dev,UMOS Food Pantry,2701 S Chase Ave,Milwaukee,53207,42.9945,-87.9128,,,y,25
 FoodWIse,UMOS Food Pantry,2701 S Chase Ave,Milwaukee,53207,42.9945,-87.9128,Y,Y,,25
-FoodWIse,United Methodist's Children's Center,3940 W Lisbon Ave.,Milwaukee,53208,43.0557,-87.9629,,,Y,25
-Health & Well Being,United Way of Greater Milwaukee & Waukesha  (UWGMW),225 W Vine St,Milwaukee,53212,43.0532,-87.9132,Y,Y,,25
-Urban Agriculture,Urban Anthropology,705 W Lincoln Ave,Milwaukee,53214,43.0026,-87.9203,Y,Y,Y,25
-Comm Dev,Urban Economic Development Association,1915 N Doctor M.L.K. Jr Dr #260,Milwaukee,53212,43.0557,-87.9147,,,Y,25
-Health & Well Being,Urban Economic Development Association,1916 N Doctor M.L.K. Jr Dr #260,Milwaukee,53213,43.0556,-87.9138,,,Y,25
-Urban Agriculture,Urban Economic Development Association,1917 N Doctor M.L.K. Jr Dr #260,Milwaukee,53214,43.0557,-87.9147,,,Y,25
+FoodWIse,United Methodist's Children's Center,3940 W Lisbon Ave.,Milwaukee,53208,43.0557,-87.9629,,,Y,84
+Health & Well Being,United Way of Greater Milwaukee & Waukesha  (UWGMW),225 W Vine St,Milwaukee,53212,43.0532,-87.9132,Y,Y,,62
+Urban Agriculture,Urban Anthropology,705 W Lincoln Ave,Milwaukee,53214,43.0026,-87.9203,Y,Y,Y,52
+Comm Dev,Urban Economic Development Association,1915 N Doctor M.L.K. Jr Dr #260,Milwaukee,53212,43.0557,-87.9147,,,Y,51
+Health & Well Being,Urban Economic Development Association,1916 N Doctor M.L.K. Jr Dr #260,Milwaukee,53213,43.0556,-87.9138,,,Y,52
+Urban Agriculture,Urban Economic Development Association,1917 N Doctor M.L.K. Jr Dr #260,Milwaukee,53214,43.0557,-87.9147,,,Y,42
 Health & Well Being,US Bank,1555 North Rivercenter Drive,Milwaukee,53213,43.0507,-87.9104,,Y,,25
 Horticulture,UWEX- Wehr Nature Center,9701 W. College Ave.,Franklin,53132,42.9251,-88.0361,Y,,,25
 Urban Agriculture,UWM School of Public Health,1240 N 10th St.,Milwaukee,53205,43.0467,-87.9240,,,Y,25
@@ -150,29 +150,29 @@ Comm Dev,UW-Milwaukee School of Architecture & Urban Planning,2131 E Hartford Av
 Positive Youth Dev.,Vel R. Phillips School,10201 Watertown Plank Rd,Wauwatosa,53213,43.0441,-88.0399,Y,Y,,25
 FoodWIse,Walker's Point Clinic,"130 W. Bruce St., Suite 200",Milwaukee,53204,43.0254,-87.9122,Y,Y,Y,25
 Urban Agriculture,Walnut Hill Neighborhood,3329 West Lisbon Ave,Milwaukee,53215,43.0542,-87.9560,Y,Y,Y,25
-Urban Agriculture,West Allis Garden Committee,7120 West National Ave,West Allis,53214,43.0130,-88.0021,Y,Y,Y,25
+Urban Agriculture,West Allis Garden Committee,7120 West National Ave,West Allis,53214,43.0130,-88.0021,Y,Y,Y,45
 FoodWIse,West Allis Health Department WIC,7120 West National Ave,West Allis,53214,43.0130,-88.0021,Y,Y,,25
-Urban Agriculture,West Allis Health Department WIC,7120 West National Ave,West Allis,53214,43.0130,-88.0021,Y,Y,Y,25
+Urban Agriculture,West Allis Health Department WIC,7120 West National Ave,West Allis,53214,43.0130,-88.0021,Y,Y,Y,35
 Horticulture,WI DNR Havenwoods State Forest,6141 N Hopkins St,Milwaukee,53209,43.1269,-87.9727,Y,,,25
-Urban Agriculture,Wilson Elementary School,8710 West Orchard,West Allis,53214,43.0145,-88.0214,Y,Y,,25
+Urban Agriculture,Wilson Elementary School,8710 West Orchard,West Allis,53214,43.0145,-88.0214,Y,Y,,98
 4-H,Windlake Academy,1445 S 32nd St,Milwaukee,53215,43.0160,-87.9545,Y,Y,,25
-Comm Dev,Wisconsin Black Historical Society and Museum,2620 W Center St,Milwaukee,53206,43.0683,-87.9470,,Y,Y,25
-Horticulture,Wisconsin Dept. of Natural Resources,2300 N. Dr. Martin Luther King Drive,Milwaukee,53212,43.0611,-87.9133,Y,,,25
-Comm Dev,Wisconsin Housing and Economic Development Authority,611 W National Ave,Milwaukee,53204,43.0229,-87.9186,,,Y,25
+Comm Dev,Wisconsin Black Historical Society and Museum,2620 W Center St,Milwaukee,53206,43.0683,-87.9470,,Y,Y,78
+Horticulture,Wisconsin Dept. of Natural Resources,2300 N. Dr. Martin Luther King Drive,Milwaukee,53212,43.0611,-87.9133,Y,,,54
+Comm Dev,Wisconsin Housing and Economic Development Authority,611 W National Ave,Milwaukee,53204,43.0229,-87.9186,,,Y,82
 Horticulture,Wisconsin Public Radio (WHA/WHAD),10 W Wisconsin Ave,Milwaukee,53203,43.0380,-87.9108,Y,,,25
-Horticulture,Wisconsin State Fair,640 S 84th St,West Allis,53214,43.0245,-88.0143,Y,,,25
-Farmers,Brown Deer Farmers Market,9078 N. Green Bay Rd. ,Brown Deer,53209,43.177813,-87.977188,,,,
-Farmers,Cudahy Farm Stand,5050 S. Lake Dr,Cudahy,53110,42.950505,-87.860883,,,,
-Farmers,Fondy Farmers Market,2200 W. Fond du Lac Ave,Milwaukee,53206,43.061857,-87.939572,,,,
-Farmers,Fox Point Farmers Market,7330 N. Santa Monica Blvd,Fox Point,53217,43.150414,-87.901554,,,,
-Farmers,Greendale Downtown Market,Greendale Village Center Broad St. & Northway,Greendale,53129,42.939993,-88.000857,,,,
-Farmers,Greenfield Farmers Market,Konkel Park 5151 W. Layton Ave,Greenfield,53220,42.957494,-87.977983,,,,
-Farmers,Michael McGee Farmstand,Oasis Fresh Foods 2225 N. Humboldt Ave,Milwaukee,53212,43.059678,-87.898355,,,,
-Farmers,Near West Side Farmers Market,3743 W. Vliet St,Milwaukee,53208,43.048467,-87.960838,,,,
-Farmers,Oak Creek Farmers Market,Drexel Town Square 361 W. Town Square Way,Oak Creek,53154,42.898078,-87.915921,,,,
-Farmers,Riverwest Gardeners Market,2700 N. Pierce St,Milwaukee,53212,43.072022,-87.902772,,,,
-Farmers,Shorewood Farmers Market,Estabrook Park 4100 Estabrook Pkwy,Shorewood,53211,43.082414,-87.881444,,,,
-Farmers,South Milwaukee Downtown Market,11th Ave. & Milwaukee Ave,South Milwaukee,53172,42.911729,-87.862657,,,,
-Farmers,South Shore Farmers Market,South Shore Park 2900 S. Shore Drive,Milwaukee,53207,42.993076,-87.878556,,,,
-Farmers,Tosa Farmers Market,7720 Harwood Ave,Wauwatosa,53213,43.052762,-88.043853,,,,
-Farmers,West Allis Farmers Market,6501 W. National Ave,West Allis,53214,43.010398,-88.015634,,,,
+Horticulture,Wisconsin State Fair,640 S 84th St,West Allis,53214,43.0245,-88.0143,Y,,,75
+Farmers,Brown Deer Farmers Market,9078 N. Green Bay Rd. ,Brown Deer,53209,43.177813,-87.977188,Y,,,123
+Farmers,Cudahy Farm Stand,5050 S. Lake Dr,Cudahy,53110,42.950505,-87.860883,Y,,,53
+Farmers,Fondy Farmers Market,2200 W. Fond du Lac Ave,Milwaukee,53206,43.061857,-87.939572,Y,,,32
+Farmers,Fox Point Farmers Market,7330 N. Santa Monica Blvd,Fox Point,53217,43.150414,-87.901554,Y,,,67
+Farmers,Greendale Downtown Market,Greendale Village Center Broad St. & Northway,Greendale,53129,42.939993,-88.000857,Y,,,45
+Farmers,Greenfield Farmers Market,Konkel Park 5151 W. Layton Ave,Greenfield,53220,42.957494,-87.977983,Y,,,34
+Farmers,Michael McGee Farmstand,Oasis Fresh Foods 2225 N. Humboldt Ave,Milwaukee,53212,43.059678,-87.898355,Y,,,155
+Farmers,Near West Side Farmers Market,3743 W. Vliet St,Milwaukee,53208,43.048467,-87.960838,Y,,,175
+Farmers,Oak Creek Farmers Market,Drexel Town Square 361 W. Town Square Way,Oak Creek,53154,42.898078,-87.915921,Y,,,45
+Farmers,Riverwest Gardeners Market,2700 N. Pierce St,Milwaukee,53212,43.072022,-87.902772,Y,,,86
+Farmers,Shorewood Farmers Market,Estabrook Park 4100 Estabrook Pkwy,Shorewood,53211,43.082414,-87.881444,Y,,,95
+Farmers,South Milwaukee Downtown Market,11th Ave. & Milwaukee Ave,South Milwaukee,53172,42.911729,-87.862657,Y,,,24
+Farmers,South Shore Farmers Market,South Shore Park 2900 S. Shore Drive,Milwaukee,53207,42.993076,-87.878556,Y,,,103
+Farmers,Tosa Farmers Market,7720 Harwood Ave,Wauwatosa,53213,43.052762,-88.043853,Y,,,57
+Farmers,West Allis Farmers Market,6501 W. National Ave,West Allis,53214,43.010398,-88.015634,Y,,,84
