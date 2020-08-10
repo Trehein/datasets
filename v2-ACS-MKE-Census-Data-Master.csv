@@ -295,5 +295,5 @@ geoID,ageMedianTotal,ageMedianFemale,ageMedianMale,povPercBelow,aidTotal,incomeM
 1400000US55079187200,36,43.8,34.6,3.3,39,31770,93.5,6.5,2.6,260,50
 1400000US55079187300,38.8,40.1,38.2,4.5,141,44154,84.3,15.7,3,403,285
 1400000US55079187400,33.7,31.5,35.6,11.8,28,61566,93,7,2.2,95,177
-1400000US55079980000,-,-,-,-,0,-,-,-,-,0,0
-1400000US55079990000,-,-,-,-,0,-,-,-,-,0,0
+1400000US55079980000,null,null,null,null,null,null,null,null,null,null,null
+1400000US55079990000,null,null,null,null,null,null,null,null,null,null,null
